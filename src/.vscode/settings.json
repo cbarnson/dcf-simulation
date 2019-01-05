@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "Makefile.am": "makefile",
+        "configure.ac": "makefile",
+        "string": "cpp"
+    }
+}
